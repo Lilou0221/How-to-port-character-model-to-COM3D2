@@ -2,12 +2,12 @@
    
 Basic COM modding requires having menu, model, and tex files inside your mod folder
  + Model is the files you export your model from blender
- + Tex are the files converted from diffuse texture files
+ + Tex are the files converted from diffuse texture files. Converting by texttool.exe
  + Menu are txt files provided inside temp folder found in Zoobot's modding tools. Those .txt files need to be converted to .menu by [CM3D2]menu←→txt Converter.exe
 
 2) Requirements for exporting your model from Blender-CM3D2-Converter
    
-If get any error before exporting your model to COM, check if you meet all the requirements listed below:
+If get any error before exporting your model to COM from Blender, check if you meet all the requirements listed below:
 + Convert all material to COM material
 + Apply all transforms (ctr+A > All transforms) to your model AND its armature
 + Apply all modifiers, only keep COM armature modifier
