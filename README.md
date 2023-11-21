@@ -11,7 +11,7 @@ Used term:
 - The temp folder: the temp folder contains temporary menu files provided inside Zoobot's modding tools
 
 Requirement:
-- Zoobot's modding tools(including blend files, and mass rename script): 
+- Zoobot's modding tools(including blend files, and mass rename script): https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/releases/tag/tutorial
 - NKK mods(mostly for the hair menus): https://mega.nz/folder/06ViRZJL#fB-zihiNHKWzQyftc6XMug
 - Converting tools (to convert .png to .tex, and .txt to .menu): https://mega.nz/file/ZrsRyZAb#WNfT2tTk7s5Je6h8I5qPIFX5JjxwtrfE4DWm0wKkoHw
 - Blender 3.4 with latest Blender-CM3D2-Converter install: https://github.com/luvoid/Blender-CM3D2-Converter
