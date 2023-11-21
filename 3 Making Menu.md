@@ -3,7 +3,7 @@
 The best way to learn more about making menu is to look at the menu from other mods. This guide won't into the details but only provides a bunch of temporary menus and a script to help mass rename them.
  
   Step to prepare the menu:
-+ + place your icon to :temp/texture and rename it temp_icon before run, the script will automatically set icon in the game
++ place your icon to :temp/texture and rename it temp_icon before run, the script will automatically set icon in the game
 + Run "mass rename menu.py" 
 + Paste your the temp folder direction and your character name when the scripts ask as in the video. The script will automatically rename all characters with temp to your character name.
 + Go to :temp/1menu and convert all .txt to .menu by the "txt to menu.exe"
