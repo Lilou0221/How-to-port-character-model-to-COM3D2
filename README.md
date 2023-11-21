@@ -1,7 +1,7 @@
 # How-to-port-character-model-to-COM3D2
 Used term:
--COM: the game COM3D2
--Your model: the model you want to port to COM 
++COM: the game COM3D2
++Your model: the model you want to port to COM 
 -COM body: the LOhighpoly body provided in the .blend flies inside the Zoobot's modding tools
 (Really need to remember “Your model” and “COM body”, they will be mentioned a lot in this guide)
 -Scripts: Many Python scripts are used to automate some progress. Written and saved inside Zoobot workflow.blend 
