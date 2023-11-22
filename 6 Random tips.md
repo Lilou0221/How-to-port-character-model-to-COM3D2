@@ -6,7 +6,7 @@ But if your model is a game-ripped model, find the diffuse texture and rename it
 
 [game ripped converting video example](https://mega.nz/file/XLJymZ4B#69ad9vEvMennznG2yrnU_GecXXy1Btgdh_vryyEWFno)
 
-## making T pose 
+## 2) making T pose 
 
 A blend file helps cover any COM body to T pose inside modding tools. Pose was copied from T-pose body in cm3d2 converter
 
