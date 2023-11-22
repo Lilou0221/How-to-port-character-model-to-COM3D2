@@ -2,7 +2,7 @@ Before starting, make sure to have nkk mod inside the mod folder or hair menus w
 
 [hair no physic video example](https://mega.nz/file/Z2VR1SDB#tVu-HOZRCsf80nH8VsrWL-nr-c4Zpd5npbsDq0ls6Kw)
 
-To add physic to the hair, or any other piece of clothing, all bones of your model need to be renamed to “yure”, and its head bone (the bone that moves all other bone in pose mode) need to be renamed to “hair_0”. This guide teaches you how to progress with 3 scripts inside the Zoobot workflow.blend. If you want to do it manually, check this guide: https://github.com/luvoid/COM3D2-All-Bout-Bones/blob/main/wiki/Dynamic-Bones.md
+To add physic to the hair, or any other piece of clothing, all bones of your model need to be renamed to “yure”, and its head bone (the bone that moves all other bone in pose mode) need to be renamed to “hair_0”. This guide teaches you how to progress with 3 scripts inside the Zoobot workflow.blend. If you want to do it manually, check [this guide](https://github.com/luvoid/COM3D2-All-Bout-Bones/blob/main/wiki/Dynamic-Bones.md)
 
   ## 1)	physic in clothes
 
