@@ -21,7 +21,7 @@ Requirement:
 - PC with Python
 
 Tutorials link:
-- README: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/edit/main/README.md)
+- 1 README: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/edit/main/README.md)
 - 2 Basic + export rules: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/6%20Random%20tips.md)
 - 3 Making Menu: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/3%20Making%20Menu.md)
 - 4 Porting hair and clothes with physic: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/4%20Porting%20hair%20and%20clothes%20with%20physic.md)
