@@ -20,4 +20,11 @@ Requirement:
 - Dynabone edit plugin(for edit collider and physic): [link](https://ux.getuploader.com/trzr_tool/download/25)
 - PC with Python
 
+Tutorials link:
+- README: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/edit/main/README.md)
+- 2 Basic + export rules: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/6%20Random%20tips.md)
+- 3 Making Menu: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/3%20Making%20Menu.md)
+- 4 Porting hair and clothes with physic: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/4%20Porting%20hair%20and%20clothes%20with%20physic.md)
+- 5 Rigging clothes: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/5%20Rigging%20clothes.md)
+- 6 Random Tips: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/6%20Random%20tips.md)
 
