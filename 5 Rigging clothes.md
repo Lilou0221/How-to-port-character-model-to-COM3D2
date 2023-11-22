@@ -16,7 +16,7 @@ Basic workflow:
 + your model should be ready to export to COM. Remember to check the Requirements for exporting the model before exporting 
 + test your model inside the game and come to fix any clipping
   
-[rig body video example](https://www.youtube.com/watch?v=62k9seQdARA&ab_channel=TomCAT-Characters%2CArtandTutorials)
+[rig body video example](https://mega.nz/file/CL5yWTaY#2PdIf9Yv6lrl4hx1HcdMD_RI0Hg85VHpNfravaowQOA)
 
 
 
