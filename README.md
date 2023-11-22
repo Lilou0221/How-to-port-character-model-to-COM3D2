@@ -1,4 +1,4 @@
-# How-to-port-character-model-to-COM3D2
+# Porting-character-model-to-COM3D2-tutorials
 
   This guide won’t go over every detail but only provides the fastest and easiest way to port your model to COM3D2 while still keeping the quality. Most of the written steps are just to give you an idea of what going on, watch the video under each tutorial for the full progress. There is also a workflow video with no comment that shows all tutorials.
   
