@@ -15,7 +15,7 @@ Used term:
 Requirement:
 - Zoobot's modding tools(including blend files, and mass rename script): [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/releases/tag/tutorial)
 - NKK mods(mostly for the hair menus): [link](https://mega.nz/folder/06ViRZJL#fB-zihiNHKWzQyftc6XMug)
-- Converting tools (to convert .png to .tex, and .txt to .menu): [link](https://mega.nz/file/ZrsRyZAb#WNfT2tTk7s5Je6h8I5qPIFX5JjxwtrfE4DWm0wKkoHw)
+- English Converting tools (to convert .png to .tex, and .txt to .menu): [link](https://mega.nz/file/ZrsRyZAb#WNfT2tTk7s5Je6h8I5qPIFX5JjxwtrfE4DWm0wKkoHw)
 - Blender 3.4 with latest Blender-CM3D2-Converter install: [link](https://github.com/luvoid/Blender-CM3D2-Converter/releases)
 - Dynabone edit plugin(for edit collider and physic): [link](https://ux.getuploader.com/trzr_tool/download/25)
 - PC with Python
