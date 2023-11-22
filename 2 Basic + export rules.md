@@ -10,6 +10,11 @@ Basic COM modding requires having menu, model, and tex files inside your mod fol
 If get any error before exporting your model to COM from Blender, check if you meet all the requirements listed below:
 + Convert all material to COM material
 + Apply all transforms (ctr+A > All transforms) to your model AND its armature
+  
+
+https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/assets/151656570/1e0d5d7c-c580-411b-866d-11d3d46243cf
+
+
 + Apply all modifiers, only keep COM armature modifier
 + Make sure to parent your model to COM armature
 + Unhide your model’s armature before export
