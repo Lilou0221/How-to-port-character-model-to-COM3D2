@@ -36,13 +36,13 @@ If ”convert bone hair” fails. You can also try ”convert bone clothes” fo
 + Rename your model mesh inside blender, so it matches the model files inside COM mod folder
 + no need to edit the .py 
 
-[hair physic video example](https://mega.nz/file/dn9BRYrS#dq68s_YdJ2mDWsRe1RwG-UdjwS3ykHC5NjxcSY08BCk)
+[hair physic ”convert bone hair” video example](https://mega.nz/file/dn9BRYrS#dq68s_YdJ2mDWsRe1RwG-UdjwS3ykHC5NjxcSY08BCk)
 
-[hair physic method2 video example](https://mega.nz/file/k7lG1A6B#cG5JHfKK6NgjwzuLBjTSIo5PPgcE-a5lV0KEAIkTiPQ)
+[hair physic ”convert bone hair” video example](https://mega.nz/file/k7lG1A6B#cG5JHfKK6NgjwzuLBjTSIo5PPgcE-a5lV0KEAIkTiPQ)
 
 
 ## 3)	physic for headdress
 
 Porting headdresses are the same as porting hair because both require to stick in the head, not the body. However, only “convert bone clothes” script will able to handle the jobs.
 
-[hair physic method2 video example](https://mega.nz/file/k7lG1A6B#cG5JHfKK6NgjwzuLBjTSIo5PPgcE-a5lV0KEAIkTiPQ)
+[hair physic ”convert bone hair” video example](https://mega.nz/file/k7lG1A6B#cG5JHfKK6NgjwzuLBjTSIo5PPgcE-a5lV0KEAIkTiPQ)
