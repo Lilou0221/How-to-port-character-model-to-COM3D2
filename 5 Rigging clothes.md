@@ -13,7 +13,7 @@ Basic workflow:
 + Apply armature modifier from your model to COM body’s armature, so you can pose your model by COM body’s armature
 + switch COM body back to its original pose. At this point, both of your model and COM body should switch to squat pose
 + your model should be ready to export to COM. Remember to check the Requirements for exporting the model before exporting 
-+ test your model inside the game and come to fix any clipping
++ the COM body was LOhighpoly body V2, so you need to equipped that body inside the game or clothes will have small clipping. Test your model inside the game and come to fix any clipping
   
 [rig body video example](https://mega.nz/file/CL5yWTaY#2PdIf9Yv6lrl4hx1HcdMD_RI0Hg85VHpNfravaowQOA)
 
