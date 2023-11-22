@@ -1,14 +1,13 @@
 
 ## 1) Transfer weight paint and shape key
 
-Welcome to the hardest part in character porting - transfer weight paint from COM body to your model. The progress require to resize both COM body and your model as close as possible, so we can best result from “high predict weight transfer” from CM3D2-Converter. After weight transfer, your model will automatically follow COM body movement.
+Welcome to the hardest part in character porting - transfer weight paint from COM body to your model. The progress require to resize both COM body and your model as close as possible, so we can get best result from “high predict weight transfer” from CM3D2-Converter. After weight transfer, your model will automatically follow COM body movement.
 My recommend method is to pose your model’s armature and sculpt your model to fit the COM body. Of course, this method require your model to have a working armature and a little bit of knowledge with sculpting. 
 
 Basic workflow:
 + Resize your model to somewhat match the COM body
 + Posing 2 arms to T pose to match the COM body. Run “fix mirror mmd” to fix mirroring issues between 2 arm. Keeping in mind that this script only work for mmd armature
-+ Use Sculpt brushes to sculpt the rest until your model completely fit COM body. The only 2 brush you will need are elactric deform and draw brush.
-+ Keep in mind you don’t have to sculpt the area that can be hidden by node hiding
++ Use Sculpt brushes to sculpt the rest until your model completely fit COM body. The only 2 brush you will need are elactric deform and draw brush. Keep in mind you don’t have to sculpt the area that can be hidden by node hiding
 + When you make sure your model fits COM body, use “high predict vertex group transfer” to transfer weight paint from COM body to your model
 + The next step is to transfer the shape key from COM body to your model. Consider increasing the poly in the chest area by subdivision to avoid clipping in munel shape key
 + Apply armature modifier from your model to COM body’s armature, so you can pose your model by COM body’s armature
@@ -38,11 +37,11 @@ Luckily, I come up with a method help you cheese the skirts like Nahida or Lisa.
 
 To rig any skirt:
 + Unhide Rigged skirt collection, and move your model to that collection
-+ Pick one of 3 skirt bodies that are similar in size to your model provided inside Zoobot workflow.blend. Those are names “small skirt body”, “medium skirt body”, and “big skirt body”. I will pick “medium skirt body” for example
++ Pick one of 3 skirt bodies that are similar in size to your model provided inside Zoobot workflow.blend. Those are names “small skirt body”, “medium skirt body”, and “big skirt body”. I will use “medium skirt body” for example
 + split any pants, stock, or shoes from your model, and save them somewhere. You will have to rig them later
 + sculpt your model to fit “medium skirt body”. The skirt area doesn’t need to be perfectly aligned
 + transfer weight paint and shape key
-+ Parent your model to “COM body armature”, so you can switch your model to squat pose. Parent your model to “COM body”, not “medium skirt body’s armature”. 
-+ After successful switch your model to squat pose. You can parent your model to “medium skirt body’s armature”. Remember to force apply any modifier on your model before export.
++ Parent your model to “COM body armature”, so you can switch your model to squat pose. Again, Parent your model to “COM body armature”, not “medium skirt body’s armature”. 
++ After successful switch your model to squat pose. You can parent your model to “medium skirt body’s armature” now. Remember to force apply any modifier on your model before export.
 
 [rig medium skirt example](https://www.youtube.com/watch?v=62k9seQdARA&ab_channel=TomCAT-Characters%2CArtandTutorials)
