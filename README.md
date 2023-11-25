@@ -29,4 +29,5 @@ Tutorials link:
 - 4 Porting hair and clothes with physic: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/4%20Porting%20hair%20and%20clothes%20with%20physic.md)
 - 5 Rigging clothes: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/5%20Rigging%20clothes.md)
 - 6 Random Tips: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/6%20Random%20tips.md)
+- 7 full workflow: [link](https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/blob/main/7.%20workflow%20videos.md)
 
