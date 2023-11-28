@@ -2,7 +2,7 @@
 
   This guide won’t go over every detail but only provides the fastest and easiest way to port your model to COM3D2 while still keeping the quality. Most of the written steps are just to give you an idea of what going on, watch the video under each tutorial for the full progress. There is also a workflow video with no comment that shows all tutorials.
   
- + For questioning, discord: https://discord.gg/custommaid
+ + For questioning and other resources, discord: https://discord.gg/custommaid
    
    <img width="440" alt="image" src="https://github.com/Zoobot123/How-to-port-character-model-to-COM3D2/assets/151656570/3ac68931-9e46-44bd-8583-609e8817197b">
 
